@@ -1,0 +1,17 @@
+
+body{
+    background-color: #fff;
+    font-weight: normal;
+    color:#444;
+    padding-bottom: 50px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #000;
+    font-weight: bold;
+}
+.intro{
+    padding: 30px 0;
+    background: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+}
