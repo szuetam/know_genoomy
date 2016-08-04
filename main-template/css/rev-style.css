@@ -26,8 +26,9 @@
    text-transform: uppercase;
 }
 .rev-buttons a{
-    color:#fff ;
+    color:#3c763d ;
     margin: 5px;
+    line-height: 70px;
 }
 .rev-buttons .btn-theme-bg:hover{
     color:#fff;
