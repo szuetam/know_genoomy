@@ -84,6 +84,7 @@
 /***index page slider****/
 .caption.title-2 {
 color: #32c5d2;
+text-shadow: -5px 0 black, 0 5px black, 5px 0 black, 0 -5px black;
 font-size: 48px;
 line-height: 56px;
 font-weight: 900;
@@ -91,7 +92,7 @@ text-transform: uppercase;
  font-family: 'Source Sans Pro', sans-serif;
 }
 .caption.text{
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 300;
     color:#fff;
      font-family: 'Source Sans Pro', sans-serif;
