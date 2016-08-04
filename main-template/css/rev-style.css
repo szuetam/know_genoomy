@@ -38,6 +38,7 @@
 .tp-caption.modern_big_redbg{
       font-family: 'Source Sans Pro', sans-serif !important; 
       font-weight: 300;
+      line-height: 72px;
 }
 .slider-text-title{
     font-size: 50px;
