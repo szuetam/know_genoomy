@@ -92,14 +92,14 @@
 .caption.title-2 {
 color: #32c5d2;
 text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
-font-size: 50px;
-line-height: 56px;
+font-size: 52px;
+line-height: 58px;
 font-weight: 800;
 text-transform: uppercase;
  font-family: 'Source Sans Pro', sans-serif;
 }
 .caption.text{
-    font-size: 32px;
+    font-size: 34px;
     font-weight: 500;
     color:#fff;
      font-family: 'Source Sans Pro', sans-serif;
@@ -185,8 +185,8 @@ text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 .left-tile-text{
     color: #32c5d2;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
-    font-size: 50px;
-    line-height: 56px;
+    font-size: 52px;
+    line-height: 58px;
     font-weight: 800;
     text-transform: uppercase;
     font-family: 'Source Sans Pro', sans-serif;
