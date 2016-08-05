@@ -433,9 +433,9 @@ pre:after, pre:before {
 }
 
 .btn-theme-bg {
-  border-color: #33a6cc;
+  border-color: #32c5d2;
   color: #fff;
-  background-color: #33a6cc;
+  background-color: #32c5d2;
 }
 
 .btn i {
@@ -443,9 +443,9 @@ pre:after, pre:before {
 }
 
 .btn-theme-bg:hover {
-  color: #33a6cc;
-  border-color: #32c5d2;
-  background-color: #32c5d2;
+  color: #6b6b6b;
+  border-color: #6b6b6b;
+  background-color: #6b6b6b;
 }
 
 .btn-theme-dark {
