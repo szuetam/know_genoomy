@@ -101,6 +101,7 @@ text-transform: uppercase;
 .caption.text{
     font-size: 34px;
     font-weight: 500;
+    line-height: 40px;
     color:#fff;
      font-family: 'Source Sans Pro', sans-serif;
 }
