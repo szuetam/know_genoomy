@@ -95,13 +95,13 @@
 
 /***index page slider****/
 .caption.title-2 {
-color: #32c5d2;
-text-shadow: 1px 2px 2px rgba(225,225,225,0.7),
-font-size: 54px;
-line-height: 58px;
-font-weight: 800;
-text-transform: uppercase;
-font-family: 'Source Sans Pro', sans-serif;
+    color: #32c5d2;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white, 0.7;
+    font-size: 54px;
+    line-height: 58px;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 .caption.text{
     font-size: 34px;
