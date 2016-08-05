@@ -174,7 +174,8 @@ font-family: 'Source Sans Pro', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
 }
 .text-center-btm{
-    color:#fff;
+    color: #32c5d2;
+text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
     font-size: 20px;
     font-weight: 300;
     line-height:34px !important;
