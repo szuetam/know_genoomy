@@ -96,12 +96,12 @@
 /***index page slider****/
 .caption.title-2 {
 color: #32c5d2;
-text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white, 0.5;
 font-size: 54px;
 line-height: 58px;
 font-weight: 800;
 text-transform: uppercase;
- font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
 }
 .caption.text{
     font-size: 34px;
