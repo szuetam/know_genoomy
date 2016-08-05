@@ -443,8 +443,8 @@ pre:after, pre:before {
 }
 
 .btn-theme-bg:hover {
-  background-color: #a94442;
-  border-color: #a94442;
+  color: #33a6cc;
+  border-color: #33a6cc;
 }
 
 .btn-theme-dark {
