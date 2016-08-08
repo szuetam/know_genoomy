@@ -33,10 +33,12 @@
     font-size: 32px;
     border-radius: 10px;
     padding: 17px;
+    background-color:#ec0c0c;
 }
 .rev-buttons .btn-theme-bg:hover{
+    line-height: 72px
     color:#fff;
-    line-height: 72px;
+    background-color:#32c5d2;
 }
 .rev-buttons .border-white:hover{
     color:#333;
