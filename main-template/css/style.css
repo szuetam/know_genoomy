@@ -458,6 +458,16 @@ pre:after, pre:before {
   background-color: #32c5d2;
 }
 
+.btn-theme1-dark {
+  background-color: #ec0c0c;
+  color: #fff;
+}
+
+.btn-theme1-dark:hover {
+  color: #fff;
+  background-color: #32c5d2;
+}
+
 /*********border-buttons**********/
 .border-black {
   border: 1px solid #333;
