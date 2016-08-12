@@ -465,6 +465,9 @@ pre:after, pre:before {
 
 .btn-theme1-dark:hover {
   color: #fff;
+  border-color: #fff;
+  border: 1px, solid;
+  height: 45px;
   background-color: #32c5d2;
 }
 
