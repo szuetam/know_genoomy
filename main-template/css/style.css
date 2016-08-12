@@ -6318,3 +6318,10 @@ body.coming-soon-full {
   margin-bottom: 25px;
   margin-top: 20px;
 }
+
+.cta-newsletter .form-control {
+    height: 45px;
+    min-width: 290px;
+    font-size: 12px;
+    font-weight: 400;
+}
