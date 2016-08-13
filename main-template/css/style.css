@@ -2083,6 +2083,12 @@ h1.typed-text {
   padding-bottom: 40px;
 }
 
+.dark-bg {
+  background-color: #383838;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
 .blue-bg .services-box i {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
