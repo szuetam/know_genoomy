@@ -4,13 +4,13 @@ $('.assan-contact').submit(function() {
 		var $email		= $form.find('input[name="email"]');
 		var $name		= $form.find('input[name="name"]');
 		var $message	= $form.find('textarea[name="message"]');
-		var $submit		= $form.find('input[name="submit"]');
+		var $submit		= $form.find(':input[name="submit"]');
 		var $dataStatus	= $form.find('.data-status');
 		
 		$email.attr('disabled', 'disabled');
 		$name.attr('disabled', 'disabled');
 		$message.attr('disabled', 'disabled');
-		$submit.attr('disabled', 'disabled');
+		$submit.attr('disabled', 'disabled').css('background-color', '#32c5d2').text("sent");
 		
 		$dataStatus.show().html('<div class="alert alert-info"><strong>Loading...</strong></div>');
 		
